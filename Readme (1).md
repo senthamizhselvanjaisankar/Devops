@@ -25,7 +25,7 @@ CodePipeline is the orchestrator which glues together the VCS-,build- and deploy
 
 ## pipeline
 
-This demo CI/CD pipeline will
+This CI/CD pipeline will
 
 * run container on _AWS ECS_ cluster
 * fetch the container from _AWS ECR_
