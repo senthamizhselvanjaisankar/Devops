@@ -1,4 +1,4 @@
-# CI/CD demo pipeline on AWS
+# CI/CD pipeline on AWS
 
 ## Overview
 
@@ -23,7 +23,7 @@ CodeDeploy is a fully managed deployment service that automates software deploym
 CodePipeline is the orchestrator which glues together the VCS-,build- and deploy steps. Not only AWS internal services are possible, e.g. you can also integrate GitHub as VCS.
 
 
-## Demo pipeline
+## pipeline
 
 This demo CI/CD pipeline will
 
